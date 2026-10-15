@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Personal habit data (stays on your machine)
+habits.json
